@@ -1,0 +1,9 @@
+{
+  "name": "tile-table",
+  "version": "1.0.0",
+  "description": "Tile Table - a real-time word game for up to 23 players. Share a link, everyone joins.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
